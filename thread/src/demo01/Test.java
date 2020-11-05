@@ -17,5 +17,6 @@ public class Test {
 		System.out.println("李四也提交了代码...");
 		System.out.println("张三又提交了代码...");
 		System.out.println("张三第3次提交的代码...");
+		System.out.println("idea提交了代码");
 	}
 }
