@@ -13,5 +13,6 @@ public class Test {
 		t3.start();
 		
 		System.out.println("张三提交的代码...");
+		System.out.println("张三第2次提交的代码...");
 	}
 }
